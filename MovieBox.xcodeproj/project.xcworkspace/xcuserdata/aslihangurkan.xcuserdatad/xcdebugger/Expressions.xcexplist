@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PreviewViewController.configure(with:):PreviewViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "model.title">
+            </PersistentString>
+            <PersistentString
+               value = "titleLabel?.text?.description">
+            </PersistentString>
+            <PersistentString
+               value = "titleLabel?.text">
+            </PersistentString>
+            <PersistentString
+               value = "model.title.description">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
